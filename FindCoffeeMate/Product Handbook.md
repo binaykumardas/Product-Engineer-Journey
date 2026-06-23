@@ -3,20 +3,15 @@
 ## Vision
 A world where anyone with an idea can easily find committed people to build it with.
 
----
 
 ## Mission
 Help product-minded builders find reliable co-builders and turn ideas into real products.
-
----
 
 ## Problem Statement
 
 Many developers have ideas but struggle to find people who are genuinely committed to building them.
 
 Existing platforms are good for networking but poor at helping people form long-term product collaborations.
-
----
 
 ## Target Users
 
@@ -35,8 +30,6 @@ Characteristics
 - Looking for long-term collaborators
 - Have already tried LinkedIn, Discord, Reddit, etc.
 
----
-
 ## Current Alternatives
 
 - LinkedIn
@@ -46,8 +39,6 @@ Characteristics
 - X
 - Local Meetups
 
----
-
 ## Why Existing Solutions Fail
 
 - Too much networking
@@ -55,13 +46,9 @@ Characteristics
 - Hard to know commitment level
 - No collaboration journey
 
----
-
 ## Value Proposition
 
 FindCoffeeMate helps builders find reliable co-builders instead of just making connections.
-
----
 
 ## Success Metrics
 
@@ -70,8 +57,6 @@ FindCoffeeMate helps builders find reliable co-builders instead of just making c
 - Projects active after 30 days
 - MVPs launched
 - Weekly active builders
-
----
 
 ## Product Principles
 
